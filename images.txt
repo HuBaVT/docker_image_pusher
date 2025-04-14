@@ -1,1 +1,1 @@
---platform=amd64 michaelrnowak/cpp-dev-env:latest
+michaelrnowak/cpp-dev-env:latest
